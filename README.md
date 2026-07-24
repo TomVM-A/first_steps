@@ -15,7 +15,7 @@ Si siente que es algo desordenado y sin rumbo, es normal, pues así es como est�
 
 Ahora, *¿Por qué definirlo y mencionarlo?* (que ya paresco disco rayado), pues porque los vamos a listar. Es bueno llevar seguimiento de las cosas, nos ayuda a ver un panorama más amplio de lo que hacemos y gracias a eso hacer mejores analisis o almenos más completos:
 
-| Try | Description | Objetivo | Tiempo Invertido |
-| ----------- | ----------- | ----------- | ----------- |
-| Carga de archivo a repositorio de manera manual | Proceso para cargar archivos a un repositorio de GitHub de manera manual | Familiarizarme más con la interfaz de GitHub y entender su funcionamiento - Completar la documentación de GitHub | ~10 min |
-|  |  |  |  |
+| Fecha | Try | Description | Objetivo | Tiempo Invertido |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 24/07/2026 | Carga de archivo a repositorio de manera manual | Proceso para cargar archivos a un repositorio de GitHub de manera manual | Familiarizarme más con la interfaz de GitHub y entender su funcionamiento - Completar la documentación de GitHub | ~10 min |
+|  |  |  |  |  |
