@@ -3,6 +3,13 @@ Este respositorio es una caja de almacenamiento de mis primeros pasos y pruebas 
 
 Si siente que es algo desordenado y sin rumbo, es normal, pues así es como está. Este espacio es una caja de arena con castillos de una sola torre, o tuneles que se quedaron en cuevas. Su intuición le esta indicando lo correcto. No encontrará aquí proyectos finalizados si no, ideas tomando forma y los tachones y borrones de su proceso.
 
+## Links útiles y de interes
+<!-- [title](https://www.example.com) -->
+- [**markdown - cheat-sheet**](https://www.markdownguide.org/cheat-sheet/)
+- [**GitHub - Search**](https://github.com/search)
+- [**GitHub - Search - Docs**](https://docs.github.com/es/search-github/getting-started-with-searching-on-github/about-searching-on-github)
+- [**GitHub - explore**](https://github.com/explore)
+
 ## "Tries"
 >**Tries** hace referencia a cada intento, como a cada proyecto por decirlo de alguna manera, pero si estan aquí es porque son solo su etapa exploratoria. 
 
